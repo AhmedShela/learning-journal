@@ -1,6 +1,6 @@
 # Css
 
-#### * The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element*
+#### *The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element*
 
 
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
