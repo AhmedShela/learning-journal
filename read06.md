@@ -2,7 +2,7 @@
 
 First of all computers make 4 major tasks
 they take **inputs** and **Store** information , **process** it
-then ** output ** the results.
+then **output** the results.
 
 so any machine that able to achive this process can be called a **Computer**
 
