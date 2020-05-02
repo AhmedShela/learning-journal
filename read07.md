@@ -143,8 +143,8 @@ expect to see an expression, then it is treated as an
 expression, and it is known as a function expression.
 In function expressions, the name is usually omitted.
 
-> `var ar ea = f unction(width, height) {`
-> `r eturn width * height;`
+> `var area = function(width, height) {`
+> `return width * height;`
 > `} ;`
 > `var size = area(3, 4) ;`
 
