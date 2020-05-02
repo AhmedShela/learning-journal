@@ -10,7 +10,7 @@
 
 # Loops:
 
-## Fior loop:
+## For loop:
 if you want to run the code spicific number of times use for loop
 
 `for(var i = 0 ; i > 10 ; i++){`
